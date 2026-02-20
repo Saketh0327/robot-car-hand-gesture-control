@@ -2,7 +2,7 @@
 
 Control a car using **hand gestures** detected via a webcam, powered by **MediaPipe**, **Python**, and **ESP32** using **Wifi communication**.
 
-This project combines **Computer Vision**, **Embedded Systems**, and **Human–Computer Interaction** into a simple but effective real-time control system.
+This project combines **Computer Vision** and **Human–Robot Interaction** into a simple but effective real-time control system.
 
 ---
 
@@ -15,7 +15,7 @@ The microcontroller then rotates a servo motor based on the received data.
 ---
 
 ## The project is useful for:
-- Human–Computer Interaction
+- Human–Robot Interaction
 - Robotics
 - Gesture-based automation
 
