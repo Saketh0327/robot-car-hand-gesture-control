@@ -56,7 +56,7 @@ robot-car-hand-gesture-control/
 ├── ESP32_devkit/
 │   └── car_control.ino
 │
-├── ESP32-cam/
+├── CameraWebServer/
 │   ├── CameraWebServer.ino
 │   ├── app_httpd.cpp
 │   ├── camera_index.h
