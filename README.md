@@ -54,7 +54,8 @@ The microcontroller then rotates a servo motor based on the received data.
 robot-car-hand-gesture-control/
 │
 ├── ESP32_devkit/
-│   └── car_control.ino
+│   ├── ESP32_devkit.ino
+│    └── README.md
 │
 ├── CameraWebServer/
 │   ├── CameraWebServer.ino
